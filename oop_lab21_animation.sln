@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_lab21_animation", "oop_lab21_animation\oop_lab21_animation.csproj", "{F6D808F1-CBE0-43BB-946E-284ADBC10FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D808F1-CBE0-43BB-946E-284ADBC10FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D808F1-CBE0-43BB-946E-284ADBC10FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D808F1-CBE0-43BB-946E-284ADBC10FEB}.Debug|x64.ActiveCfg = Debug|x64
+		{F6D808F1-CBE0-43BB-946E-284ADBC10FEB}.Debug|x64.Build.0 = Debug|x64
+		{F6D808F1-CBE0-43BB-946E-284ADBC10FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D808F1-CBE0-43BB-946E-284ADBC10FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D808F1-CBE0-43BB-946E-284ADBC10FEB}.Release|x64.ActiveCfg = Release|x64
+		{F6D808F1-CBE0-43BB-946E-284ADBC10FEB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97E4C83D-561E-4C76-A713-F8FEEE00F652}
+	EndGlobalSection
+EndGlobal
